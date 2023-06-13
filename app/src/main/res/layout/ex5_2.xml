@@ -5,12 +5,12 @@
     android:orientation="vertical">
 
     <EditText
-        android:id="@+id/Edit_t1"
+        android:id="@+id/edit_t1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
     />
     <EditText
-        android:id="@+id/Edit_t2"
+        android:id="@+id/edit_t2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
     />
